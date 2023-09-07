@@ -6,7 +6,6 @@ A digital food menu API that provides real-time menu information for a restauran
 
 - [Features](#features)
 - [Usage](#usage)
-- [Packages Used](#packages-used)
 - [Future Features](#future-features)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -34,7 +33,7 @@ To retrieve the complete menu: `GET /menu`
 To retrieve menu items available on a specific day: `GET /menu/{available}`
 Example: If I want the Monday menu -> `GET /menu/Monday`
 
-## Packages Used
+## Future Features
 
 I plan to enhance this API with the following features:
 
