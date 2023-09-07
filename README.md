@@ -1,4 +1,4 @@
-# Digital Food Menu API
+# Digital Food Menu API - Gorilla Mux
 
 A digital food menu API that provides real-time menu information for a restaurant. This API allows users to view the restaurant's menu items based on the current time, specific weekdays, or get the complete menu regardless of the day.
 
